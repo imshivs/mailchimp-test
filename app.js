@@ -1,0 +1,1 @@
+var MailChimpAPI = require('mailchimp').MailChimpAPI;

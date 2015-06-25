@@ -1,0 +1,10 @@
+{
+	"name": "mailchimp-test",
+	"version":"0.0.1",
+	"description": "trying out mailchimp wrapper",
+	"main": "app.js",
+	"scripts" : {
+		"run": "app.js"
+	}
+
+}
